@@ -1,0 +1,16 @@
+.list {
+  list-style: none;
+  padding-left: 0px;
+}
+.list__item {
+  color: blue;
+}
+.list__itemGood {
+  color: green;
+}
+.list__itemBad {
+  color: red;
+}
+.list__itemNeutral {
+  color: rgb(209, 228, 169);
+}
